@@ -10,7 +10,7 @@ public class JsonUseData : MonoBehaviour
     {
        string jsonString = CTRResources.Instance.crossTheRiverBoardData.ToString();
 
-        Debug.Log(CTRResources.Instance.crossTheRiverBoardData[0].Number);
+        Debug.Log(CTRResources.Instance.crossTheRiverBoardData[0].cells[0]);
 
 
 

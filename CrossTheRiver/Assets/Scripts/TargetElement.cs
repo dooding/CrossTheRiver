@@ -15,6 +15,8 @@ public class TargetElement : MonoBehaviour
         //todo
         //지금 눌린 데이터가 ruledata에 적합한 상태라면 눌린 표시로 바꾸기.
 
+        
+
         return isCheck;
     }
 }

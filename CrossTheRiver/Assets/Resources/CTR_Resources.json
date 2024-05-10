@@ -4,7 +4,7 @@
       "IsPractice": false,
       "Stage": 1,
       "Level": 1,
-      "Number": 21,
+      "Number": 1,
       "rules": [
         "Color_Green"
       ],
@@ -584,7 +584,7 @@
       "IsPractice": false,
       "Stage": 1,
       "Level": 1,
-      "Number": 1,
+      "Number": 21,
       "rules": [
         "Shape_Circle"
       ],
