@@ -11,6 +11,7 @@ public class JsonUseData : MonoBehaviour
        string jsonString = CTRResources.Instance.crossTheRiverBoardData.ToString();
 
         //Debug.Log(CTRResources.Instance.crossTheRiverBoardData[0].cells[0]);
+        Debug.Log(CTRResources.Instance.forestAudioScriptData[3].value);
 
 
 

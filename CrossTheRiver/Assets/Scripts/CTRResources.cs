@@ -33,6 +33,7 @@ public class CTRResources
 
     public CrossTheRiverData[] crossTheRiverData;
     public CrossTheRiverBoardData[] crossTheRiverBoardData;
+    public ForestAudioScriptData[] forestAudioScriptData;
 
     public override string ToString()
     {
@@ -110,4 +111,11 @@ public class CrossTheRiverCellData //: IStringParser
     {
         return string.Format("{0},{1}_{2}_{3}_{4}", cellPositionNumber, color, shape, count);
     }
+}
+
+public class ForestAudioScriptData
+{
+    public int priority;
+    public string value;
+    public bool btnActive;
 }
